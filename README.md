@@ -1,4 +1,4 @@
 UIImageCategory
 ===============
 
-Build Imge with Color,Resize Image,Circle Imag,Rotation and Crop Image
+Build Imge with Color,Resize Image,Circle Image,Rotation and Crop Image
